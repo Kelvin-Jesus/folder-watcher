@@ -1,0 +1,7 @@
+[VARS]
+FOLDER_TO_WATCH=/path/of/folder/to/watch
+ON_SUCCESS_FOLDER=/path/of/folder/to/move/file/on/success
+ON_ERROR_FOLDER=/path/of/folder/to/move/file/on/error
+TIME_IN_MINUTES=10
+AUTH_TOKEN=akjlshdfjklashfklsadfkjas
+URL_TO_SEND=https://webhook.site/fee279b6-374c-4ff1-b000-a94b7d270cf2
